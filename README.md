@@ -11,7 +11,7 @@ This repository contains the code and scripts used in my Master's thesis, **"Top
 - **Languages & Tools:** Python, Pandas, NumPy, and Matplotlib.
 
 ## File Structure
-- `data/`: Contains sample datasets (if applicable).
+- `data/`: Contains sample datasets.
 - `scripts/`: Python scripts for analysis and visualization.
 - `notebooks/`: Jupyter notebooks for interactive exploration.
 
