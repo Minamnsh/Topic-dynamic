@@ -1,19 +1,21 @@
 # Topic Dynamics in the DFG Research Grants Program: Code Repository
 
-This repository contains the code and scripts used in my Master's thesis, **"Topic Dynamics in the DFG Research Grants Program."** The code implements topic modeling techniques and data analysis methods to explore the evolution of research themes funded by the Deutsche Forschungsgemeinschaft (DFG).
+This repository contains the code and scripts developed during my Master's thesis, **"Topic Dynamics in the DFG Research Grants Program."** The analysis focuses on identifying and exploring research themes funded by the Deutsche Forschungsgemeinschaft (DFG) using advanced topic modeling and visualization techniques.
 
 ## Key Features
 - **Methods Implemented:**
   - Non-Negative Matrix Factorization (NMF)
   - Term Frequency-Inverse Document Frequency (TF-IDF)
-  - Topic Space Trajectories
-- **Data:** Extracted from the GEPRIS platform.
-- **Languages & Tools:** Python, Pandas, NumPy, and Matplotlib.
+  - Coherence Score Calculation for Topic Optimization
+  - Topic Visualization (Histograms and Coherence Score Plots)
+- **Data:** Extracted from the **GEPRIS** platform, containing research project descriptions.
+- **Languages & Tools:** Python, Pandas, NumPy, Matplotlib, Gensim, Scikit-learn, and NLTK.
 
 ## File Structure
-- `data/`: Contains sample datasets.
-- `scripts/`: Python scripts for analysis and visualization.
-- `notebooks/`: Jupyter notebooks for interactive exploration.
+- `data/`: Contains sample datasets (e.g., GEPRIS exports).
+- `scripts/`: Python scripts for preprocessing, modeling, and evaluation.
+- `notebooks/`: Jupyter notebooks for interactive data analysis and visualization.
+- `models/`: Serialized models (e.g., NMF, TF-IDF vectorizer) for reuse.
 
 ## Getting Started
 1. Clone the repository:
