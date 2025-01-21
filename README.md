@@ -1,6 +1,6 @@
 # Topic Dynamics in the DFG Research Grants Program: Code Repository
 
-This repository contains the code and scripts developed during my Master's thesis, **"Topic Dynamics in the DFG Research Grants Program."** The analysis focuses on identifying and exploring research themes funded by the Deutsche Forschungsgemeinschaft (DFG) using advanced topic modeling and visualization techniques.
+This repository contains a subset of the code and scripts developed during my Master's thesis, "Topic Dynamics in the DFG Research Grants Program." The analysis focuses on identifying and exploring research themes funded by the Deutsche Forschungsgemeinschaft (DFG) using advanced topic modeling, visualization techniques, and preprocessing methods.
 
 ## Key Features
 - **Methods Implemented:**
